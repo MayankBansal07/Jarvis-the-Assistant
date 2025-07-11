@@ -22,7 +22,7 @@ import google.generativeai as genai
 # import pyaudio  # For audio input/output
 
 newsapi = "64e39ea42a01457e88474943253c558d"
-gemini_api_key = "AIzaSyCNtrzLdOlVmAsjkMGgK6bZvoEoHtT907A"
+gemini_api_key = "Type_API_key_here"
 genai.configure(api_key=gemini_api_key)
 
 # Speak function to convert text to speech
